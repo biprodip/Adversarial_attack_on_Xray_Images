@@ -4,6 +4,8 @@ An adversarial attack embodies of subtly changing an original image in such a wa
 
 This research crafts FGSM attack on transfer learning models to produce adversarial images form normal images.
 ![Adversarial](/images/normal_adversarial.png)
+Figure: Adversarial attack on Xray Images
+
 
 The common pretrained transfer learning model used is InceptionV3 and VGG16.
 
