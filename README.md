@@ -6,9 +6,10 @@ This research crafts FGSM attack on transfer learning models.
 ![Adversarial](/images/normal_adversarial.png)
 
 The common pretrained transfer learning model used is InceptionV3 and VGG16.
-![InceptionV3](/images/inception.png)
 
-![VGG16](/images/vgg.png)
+![InceptionV3](/images/inception.jpg)
+
+![VGG16](/images/vgg.jpg)
 
 
 ## Dependencies
